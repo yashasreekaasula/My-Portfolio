@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Disaster Emergency AI Voice Detector",
+    "category": "AI / Audio",
+    "description": "An audio-intelligence project exploring emergency voice and distress recognition through speech and acoustic analysis.",
+    "stack": [
+      "Python",
+      "Speech Processing",
+      "Machine Learning"
+    ],
+    "repo": "https://github.com/yashasreekaasula/Disaster-Emergency-AI-Voice-Detector",
+    "type": "voice",
+    "featured": true
+  },
+  {
+    "title": "Descriptive Exam Evaluation",
+    "category": "NLP",
+    "description": "An NLP-powered descriptive-answer assessment system using preprocessing, keyword extraction, semantic similarity, grammar checks and automated scoring.",
+    "stack": [
+      "Python",
+      "Flask",
+      "NLTK",
+      "Scikit-learn"
+    ],
+    "repo": "https://github.com/yashasreekaasula/Descriptive-Exam-Evaluation",
+    "type": "nlp",
+    "featured": true
+  },
+  {
+    "title": "Pediatric Growth Prediction",
+    "category": "Predictive ML",
+    "description": "A machine-learning project focused on pediatric growth prediction and related data-driven analysis.",
+    "stack": [
+      "Machine Learning",
+      "Prediction"
+    ],
+    "repo": "https://github.com/yashasreekaasula/Pediatric-Growth-Prediction",
+    "type": "health",
+    "featured": true
+  },
+  {
+    "title": "Anemia Detection Using Smartphone",
+    "category": "Computer Vision",
+    "description": "A project investigating smartphone-based anemia detection.",
+    "stack": [
+      "Computer Vision",
+      "AI"
+    ],
+    "repo": "https://github.com/yashasreekaasula/Anemia-Detection-Using-Smart-Phone",
+    "type": "vision",
+    "featured": false
+  },
+  {
+    "title": "Smart Grid Stabilization Using RL",
+    "category": "Reinforcement Learning",
+    "description": "A reinforcement-learning project focused on smart-grid stabilization.",
+    "stack": [
+      "Reinforcement Learning",
+      "Energy AI"
+    ],
+    "repo": "https://github.com/yashasreekaasula/Smart-Grid-Stabilization-Using-RL",
+    "type": "grid",
+    "featured": false
+  },
+  {
+    "title": "Image Captioning Using Encoder\u2013Decoder",
+    "category": "Deep Learning",
+    "description": "An image-captioning project based on an encoder\u2013decoder architecture for generating descriptions of images.",
+    "stack": [
+      "Deep Learning",
+      "Encoder\u2013Decoder"
+    ],
+    "repo": "https://github.com/yashasreekaasula/Image-Captioning-using-Encoder-Decoder-Architecture",
+    "type": "vision",
+    "featured": false
+  },
+  {
+    "title": "Elemental Space Mapping",
+    "category": "Machine Learning",
+    "description": "A project investigating property prediction in compositional materials using elemental-space representations.",
+    "stack": [
+      "Materials Informatics",
+      "Prediction"
+    ],
+    "repo": "https://github.com/yashasreekaasula/Elemental-Space-Mapping-for-property-prediction-in-compositional-materials",
+    "type": "research",
+    "featured": true
+  },
+  {
+    "title": "Legal Case Management System",
+    "category": "Software",
+    "description": "A repository dedicated to legal-case management workflows and application development.",
+    "stack": [
+      "Software Engineering",
+      "Systems"
+    ],
+    "repo": "https://github.com/yashasreekaasula/Legal-Case-Management-System",
+    "type": "software",
+    "featured": false
+  }
+]

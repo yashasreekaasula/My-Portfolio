@@ -1,0 +1,12 @@
+{
+  "name": "yashasree-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Render-ready interactive developer portfolio",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
